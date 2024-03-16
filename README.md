@@ -1,0 +1,2 @@
+coffee shop
+single page
